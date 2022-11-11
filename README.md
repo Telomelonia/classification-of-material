@@ -1,5 +1,5 @@
-# classification-of-material
-This is Material Informatics Project for classification of any material into Insulator or Conductor It uses naive bayes for classification.
+# Classification of material - Whether Conductor or Insulator
+This is Material Informatics Project for classification of any material(depends what query is run) into Insulator or Conductor It uses naive bayes for classification.
 
 ### Installation:
 
