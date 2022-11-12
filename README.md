@@ -1,6 +1,9 @@
 # Classification of material - Whether Conductor or Insulator
 This is Material Informatics Project which can be used classification of any material(depends what query is run) into Insulator or Conductor It uses naive bayes for classification.
 
+### Flowchart: 
+![alt text](https://github.com/Telomelonia/classification-of-material/blob/main/Untitled%20Diagram.drawio%20(3).png)
+
 ### Installation:
 
 To run this notebook interactively:
